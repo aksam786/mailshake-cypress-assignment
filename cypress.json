@@ -1,0 +1,9 @@
+{
+    "baseUrl": "https://app.mailshake.com/",
+    "env": {
+        "login_url": "/login",
+        "prospects_url": "/49761/prospects/all"
+      },
+    "viewportWidth": 1600,
+    "viewportHeight": 1060
+}
