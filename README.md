@@ -8,5 +8,5 @@ mailshake-cypress-assignment
 3- Once its done, run the command: npx cypress open
 
 
-#IDE
+# IDE 
 I have used Visual Studio Code to develop this test case in cypress
